@@ -123,9 +123,41 @@ A: CE、UL、RoHS认证。
 **Q17: 保修期多长？**
 A: LED组件和框架结构保修1-2年。可协商延长保修。
 
-##other：
+## other：
 
-###Tianlang Acrylic Light Box – Professional FAQ
+### English FAQ
+
+**1.Q: What is the warranty period of the light box products?**
+A: The regular product warranty period is 1 year, and large-order can be extended to 1.5-2 years through negotiation. The warranty covers product quality issues, excluding transportation damage and man-made damage.
+
+**2.Q: What is the Minimum Order Quantity (MOQ)?**
+A: The MOQ for regular models is 1 units.
+
+**3.Q: Do you provide customized services?**
+A: Yes, we support customization of product size, color temperature, protection rating and packaging. For custom orders, please provide detailed requirements to confirm the delivery time and additional costs.
+
+**4.Q: How long is the logistics time?**
+A: Depending on the logistics channel, the time limit ranges from 3 to 40 days. You can choose the appropriate channel according to the order requirements. For details, refer to the Logistics SOP.
+
+**5.Q: Are the products compliant with the requirements of the target market?**
+A: Yes, we have completed the compliance certifications for major target markets (UL, CE, RCM, etc.), and can provide corresponding certification documents to ensure the products are listed compliantly.
+
+### 德语FAQ:
+
+**1.F: Wie lange ist die Garantiezeit der Leuchtkasten-Produkte?**
+A: Die reguläre Garantiezeit der Produkte beträgt 1 Jahr, für Großaufträge kann sie durch Verhandlung auf 1,5-2 Jahre verlängert werden. Die Garantie deckt Produktqualitätsprobleme ab, nicht Transportschäden und künstliche Schäden.
+
+**2.F: Was ist die Mindestbestellmenge (MOQ)?**
+A: Die MOQ für reguläre Modelle beträgt 1 Einheiten.
+
+### 法语FAQ
+**1.Q: Quelle est la période de garantie des produits de caissons lumineux?**
+A: La période de garantie régulière des produits est de 1 an, et pour les grosses commandes, elle peut être prolongée de 1,5 à 2 ans par négociation. La garantie couvre les problèmes de qualité du produit, pas les dommages de transport et les dommages artificiels.
+
+**2.Q: Quel est le Minimum de Commande (MOQ)?**
+A: Le MOQ pour les modèles réguliers est de 1 unités.
+
+### Tianlang Acrylic Light Box – Professional FAQ
 
 **1. Q: What materials and specifications define Tianlang acrylic light boxes?**
 A: 6063-T5 aluminum alloy frame (anodized finish in silver/black/gold/custom colors), 
