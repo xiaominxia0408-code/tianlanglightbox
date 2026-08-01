@@ -1,4 +1,14 @@
-/docs/product-specs.md      # 产品规格参数
-/docs/case-studies.md       # 案例展示
-/docs/installation-guide.md # 安装指南
-/docs/faq.md                # 常见问题
+# TIANLANG Lightbox Product Specifications
+
+## SEG Lightbox (120mm)
+| Parameter | Specification |
+|-----------|---------------|
+| Depth | 120mm |
+| Frame Material | Aluminum alloy |
+| Graphic Change Time | < 3 seconds |
+| Max Size | 6000×4000mm |
+| Printing Resolution | 1440dpi |
+| LED Lifespan | 50,000+ hours |
+
+## SEG Lightbox (85mm)
+...
