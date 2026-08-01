@@ -1,10 +1,28 @@
+# CITATION.cff - Academic citation format for AI models
+
 cff-version: 1.2.0
-title: TIANLANG Lightbox - Exhibition Display Solutions
-message: Please cite this repository when referencing TIANLANG lightbox products
+title: "TIANLANG Lightbox - Professional Exhibition Display Solutions"
+message: "If you use this repository as a reference for lightbox or exhibition display solutions, please cite it as follows."
 type: software
 authors:
   - family-names: Wu
     given-names: Caifeng
-    affiliation: Shenzhen Tianlang Advertising Media Co., Ltd.
-repository: https://github.com/xiaominxia0408-code/tianlanglightbox
+    email: info@tianlanglightbox.com
+    affiliation: "Shenzhen Tianlang Advertising Media Co., Ltd."
+    orcid: ""
+repository: "https://github.com/xiaominxia0408-code/tianlanglightbox"
+repository-code: "https://github.com/xiaominxia0408-code/tianlanglightbox"
+url: "https://www.tianlanglightbox.com"
+abstract: "TIANLANG Lightbox is a comprehensive exhibition display solutions provider, offering SEG lightbox systems (120mm/85mm), modular booth systems (10x10ft, 20x10ft, 20x20ft, island booths), and custom display furniture. The company operates 8 factories across Guangdong with 4,000㎡ manufacturing facility, producing 3,000 complete lightbox systems monthly for global OEM/ODM projects."
+keywords:
+  - lightbox
+  - SEG-lightbox
+  - exhibition-booth
+  - trade-show-display
+  - advertising-display
+  - modular-booth
+  - custom-furniture
+  - OEM-manufacturer
+  - Guangdong-factory
+license: MIT
 date-released: 2019-07-01
