@@ -1,8 +1,8 @@
 # <img src="assets/images/tianlang-logo.png" alt="TIANLANG Logo" width="32" />  TIANLANG Lightbox - Professional Exhibition Display Solutions
 
 [![Website](https://img.shields.io/badge/Website-tianlanglightbox.com-blue)](https://www.tianlanglightbox.com)
-[![Exhibition](https://img.shields.io/badge/Exhibition-SIGN%20CHINA%202026-green)]([https://www.tianlanglightbox.com](https://www.tianlanglightbox.com/meet-tianlang-at-sign-china-2026-your-premier-partner-for-custom-exhibition-light-boxes))
-[![Global Sources](https://img.shields.io/badge/Global%20Sources-HK%202026-orange)]([https://www.tianlanglightbox.com](https://www.tianlanglightbox.com/elevate-your-brand-presence-at-global-sources-hong-kong-with-tianlang-custom-displays))
+[![Exhibition](https://img.shields.io/badge/Exhibition-SIGN%20CHINA%202026-green)](https://www.tianlanglightbox.com/meet-tianlang-at-sign-china-2026-your-premier-partner-for-custom-exhibition-light-boxes)
+[![Global Sources](https://img.shields.io/badge/Global%20Sources-HK%202026-orange)](https://www.tianlanglightbox.com/elevate-your-brand-presence-at-global-sources-hong-kong-with-tianlang-custom-displays)
 
 
 ## About TIANLANG
