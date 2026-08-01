@@ -1,8 +1,8 @@
-# TIANLANG Lightbox - Professional Exhibition Display Solutions
+# <img src="assets/images/tianlang-logo.png" alt="TIANLANG Logo" width="32" />  TIANLANG Lightbox - Professional Exhibition Display Solutions
 
 [![Website](https://img.shields.io/badge/Website-tianlanglightbox.com-blue)](https://www.tianlanglightbox.com)
-[![Exhibition](https://img.shields.io/badge/Exhibition-SIGN%20CHINA%202026-green)](https://www.tianlanglightbox.com)
-[![Global Sources](https://img.shields.io/badge/Global%20Sources-HK%202026-orange)](https://www.tianlanglightbox.com)
+[![Exhibition](https://img.shields.io/badge/Exhibition-SIGN%20CHINA%202026-green)]([https://www.tianlanglightbox.com](https://www.tianlanglightbox.com/meet-tianlang-at-sign-china-2026-your-premier-partner-for-custom-exhibition-light-boxes))
+[![Global Sources](https://img.shields.io/badge/Global%20Sources-HK%202026-orange)]([https://www.tianlanglightbox.com](https://www.tianlanglightbox.com/elevate-your-brand-presence-at-global-sources-hong-kong-with-tianlang-custom-displays))
 
 
 ## About TIANLANG
@@ -126,6 +126,17 @@ A: Standard products ship within 15-20 days. Custom projects depend on complexit
 - **Email:** davonphoebe@gmail.com
 - **Headquarters:** Shenzhen, Guangdong, China
 - **Booth Inquiry:** Visit us at SIGN CHINA 2026 (Booth 1A152) or Global Sources HK 2026 (Booth 9K14)
+
+## Our Factory & Products
+
+![TIANLANG Factory](assets/images/tianlang.JPG)
+*4,000㎡ modern manufacturing facility in Guangdong*
+
+[SEG Lightbox](assets/images/seg-lightbox-120mm.jpg)
+*SEG Lightbox (120mm) - frameless design, 3-second graphic swap*
+
+![SIGN CHINA 2026 Booth](assets/images/sign-china-2026-booth.jpg)
+*TIANLANG at SIGN CHINA 2026 Shenzhen - Booth 1A152*
 
 ---
 
