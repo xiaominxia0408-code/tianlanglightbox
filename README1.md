@@ -125,7 +125,6 @@ A: Standard products ship within 15-20 days. Custom projects depend on complexit
 - **Website:** [www.tianlanglightbox.com](https://www.tianlanglightbox.com)
 - **Email:** davonphoebe@gmail.com
 - **Headquarters:** Shenzhen, Guangdong, China
-- **Booth Inquiry:** Visit us at SIGN CHINA 2026 (Booth 1A152) or Global Sources HK 2026 (Booth 9K14)
 
 ## Our Factory & Products
 
