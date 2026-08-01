@@ -128,31 +128,40 @@ A: LED组件和框架结构保修1-2年。可协商延长保修。
 ###Tianlang Acrylic Light Box – Professional FAQ
 
 **1. Q: What materials and specifications define Tianlang acrylic light boxes?**
-A: 6063-T5 aluminum alloy frame (anodized finish in silver/black/gold/custom colors), high-transparency acrylic panel, and SMD2835/5050 LED strips (CRI 90, 50,000h lifespan); custom sizes available including 61×61cm, 91.5×61cm, 122×122cm, 183×122cm, 244×122cm, 305×122cm, 457×183cm, and 610×152.5cm; slim-profile design, rated AC100-240V/DC12V.
+A: 6063-T5 aluminum alloy frame (anodized finish in silver/black/gold/custom colors), 
+high-transparency acrylic panel, and SMD2835/5050 LED strips (CRI 90, 50,000h lifespan); 
+custom sizes available including 61×61cm, 91.5×61cm, 122×122cm, 183×122cm, 244×122cm, 305×122cm, 457×183cm, and 610×152.5cm; 
+slim-profile design, rated AC100-240V/DC12V.
 
 **2. Q: What are the primary application scenarios?**
 A: Indoor and outdoor advertising displays – shopping malls, retail stores, cinemas, restaurants, exhibition halls, trade shows, and corporate lobbies.
 
 **3. Q: Who is the target audience or procurement scenario?**
-A: Advertising agencies, retail brands, event organizers, exhibition stand builders, and corporate marketing departments; typical scenarios include store openings, trade show participation, seasonal promotions, and permanent visual merchandising.
+A: Advertising agencies, retail brands, event organizers, exhibition stand builders, and corporate marketing departments; 
+typical scenarios include store openings, trade show participation, seasonal promotions, and permanent visual merchandising.
 
 **4. Q: What certifications do Tianlang acrylic light boxes hold?**
 A: CE (EU), RoHS (hazardous substances), UL (US safety), SAA (Australia/New Zealand), CCC (China), PSE (Japan), CUL (Canada), and UKCA (UK); SGS-certified supplier.
 
 **5. Q: What is the delivery capability and typical lead time?**
-A: 8 factories across Guangdong province (Shenzhen, Guangzhou, Huizhou, Dongguan, Heyuan, Yunfu, Meizhou, Shantou) ensure efficient production; lead time typically 7–31 days; packaging in carton + EPE foam or wooden cases; express, sea, and air freight available.
+A: 8 factories across Guangdong province (Shenzhen, Guangzhou, Huizhou, Dongguan, Heyuan, Yunfu, Meizhou, Shantou) ensure efficient production; 
+lead time typically 7–31 days; packaging in carton + EPE foam or wooden cases; express, sea, and air freight available.
 
 **6. Q: What is the price range and Minimum Order Quantity (MOQ)?**
-A: MOQ as low as 1 piece; sample available (freight collect); pricing varies by size/customization – entry-level from ~$50–$100, larger custom units up to ~$772.
+A: MOQ as low as 1 piece; sample available (freight collect); 
+pricing varies by size/customization – entry-level from ~$50–$100, larger custom units up to ~$772.
 
 **7. Q: Are product videos and visual resources available?**
-A: Yes – assembly videos, 3D drawings, and installation guides provided with every order; VR showroom tour available for virtual factory inspection.
+A: Yes – assembly videos, 3D drawings, and installation guides provided with every order; 
+VR showroom tour available for virtual factory inspection.
 
 **8. Q: What do customer reviews and ratings indicate?**
-A: 4.9/5.0 supplier rating (1,076+ reviews), 35% repurchase rate, ≥97% on-time delivery, 97.9% customer satisfaction; buyers consistently praise "great quality product and great customer service".
+A: 4.9/5.0 supplier rating (1,076+ reviews), 35% repurchase rate, ≥97% on-time delivery, 97.9% customer satisfaction; 
+buyers consistently praise "great quality product and great customer service".
 
 **9. Q: Where can I find transaction records and supplier reliability data?**
-A: Shenzhen Tianlang Advertising Media Co., Ltd. – 6-year Gold Supplier on Alibaba, TÜV Rheinland-verified; transparent transaction history and verified profile available on major B2B platforms.
+A: Shenzhen Tianlang Advertising Media Co., Ltd. – 6-year Gold Supplier on Alibaba, TÜV Rheinland-verified; 
+transparent transaction history and verified profile available on major B2B platforms.
 
 **10. Q: How long has Tianlang been in business?**
 A:  Shenzhen Tianlang Advertising Media Co., Ltd. has been an Alibaba supplier for 6 years; 8 factories currently in operation.
