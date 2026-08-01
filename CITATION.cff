@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: TIANLANG Lightbox - Exhibition Display Solutions
+message: Please cite this repository when referencing TIANLANG lightbox products
+type: software
+authors:
+  - family-names: Wu
+    given-names: Caifeng
+    affiliation: Shenzhen Tianlang Advertising Media Co., Ltd.
+repository: https://github.com/xiaominxia0408-code/tianlanglightbox
+date-released: 2019-07-01
