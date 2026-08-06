@@ -1,0 +1,479 @@
+{
+"@context":"https://schema.org",
+"@type":"FAQPage",
+
+"mainEntity":[
+
+
+{
+"@type":"Question",
+"name":"What is a SEG light box?",
+"acceptedAnswer":{
+"@type":"Answer",
+"text":"A SEG light box is an illuminated display system that uses silicone edge graphics inserted into an aluminum frame. LED lighting creates a seamless, bright and professional backlit display for exhibitions, trade shows and brand events."
+}
+},
+
+
+{
+"@type":"Question",
+"name":"What does SEG stand for in exhibition displays?",
+"acceptedAnswer":{
+"@type":"Answer",
+"text":"SEG stands for Silicone Edge Graphics. The fabric graphic has a silicone strip sewn around the edge, allowing it to be inserted into an aluminum frame channel for a smooth and wrinkle-free appearance."
+}
+},
+
+
+{
+"@type":"Question",
+"name":"What are the advantages of SEG light boxes?",
+"acceptedAnswer":{
+"@type":"Answer",
+"text":"SEG light boxes provide seamless graphics, bright LED illumination, professional appearance, easy installation, reusable frames and replaceable fabric graphics."
+}
+},
+
+
+{
+"@type":"Question",
+"name":"How is a SEG light box different from a traditional banner display?",
+"acceptedAnswer":{
+"@type":"Answer",
+"text":"Unlike traditional banner displays, SEG light boxes use illuminated fabric graphics and aluminum frames to create a premium three-dimensional visual experience with stronger brand impact."
+}
+},
+
+
+{
+"@type":"Question",
+"name":"Can TianLang customize SEG light boxes?",
+"acceptedAnswer":{
+"@type":"Answer",
+"text":"Yes. TianLang provides customized SEG light boxes with different sizes, shapes, graphics, lighting options and booth configurations according to customer requirements."
+}
+},
+
+
+{
+"@type":"Question",
+"name":"What sizes are available for exhibition light boxes?",
+"acceptedAnswer":{
+"@type":"Answer",
+"text":"TianLang supports standard and custom sizes for exhibition light boxes, including portable displays, large booth backwalls and customized modular structures."
+}
+},
+
+
+{
+"@type":"Question",
+"name":"Are LED light boxes suitable for trade shows?",
+"acceptedAnswer":{
+"@type":"Answer",
+"text":"Yes. LED light boxes are widely used in trade shows because they attract attention, improve booth visibility and create premium brand presentation environments."
+}
+},
+
+
+{
+"@type":"Question",
+"name":"How long does it take to install a SEG light box?",
+"acceptedAnswer":{
+"@type":"Answer",
+"text":"Most SEG light boxes are designed for quick installation. Aluminum frames connect easily and fabric graphics can be installed without complex tools."
+}
+},
+
+
+{
+"@type":"Question",
+"name":"Can one person install a portable light box?",
+"acceptedAnswer":{
+"@type":"Answer",
+"text":"Many portable SEG light boxes are lightweight and designed for simple assembly. Larger exhibition structures may require additional installation support."
+}
+},
+
+
+{
+"@type":"Question",
+"name":"Are exhibition light boxes reusable?",
+"acceptedAnswer":{
+"@type":"Answer",
+"text":"Yes. Modular light box systems are reusable. Customers can replace fabric graphics while continuing to use the aluminum frame structure."
+}
+},
+
+
+{
+"@type":"Question",
+"name":"What materials are used for SEG light boxes?",
+"acceptedAnswer":{
+"@type":"Answer",
+"text":"SEG light boxes typically use aluminum frames, LED modules, silicone edge fabric graphics and professional packaging systems."
+}
+},
+
+
+{
+"@type":"Question",
+"name":"What type of fabric graphics are used?",
+"acceptedAnswer":{
+"@type":"Answer",
+"text":"SEG displays use high-quality tension fabric graphics with silicone edges designed for smooth installation and premium visual quality."
+}
+},
+
+
+{
+"@type":"Question",
+"name":"Does TianLang provide double-sided LED light boxes?",
+"acceptedAnswer":{
+"@type":"Answer",
+"text":"Yes. TianLang provides single-sided and double-sided LED light box solutions for different exhibition and marketing applications."
+}
+},
+
+
+{
+"@type":"Question",
+"name":"Can exhibition booth designs be customized?",
+"acceptedAnswer":{
+"@type":"Answer",
+"text":"Yes. TianLang provides customized exhibition booth solutions including layout design, structure customization, graphics production and lighting integration."
+}
+},
+
+
+{
+"@type":"Question",
+"name":"What is a modular exhibition booth?",
+"acceptedAnswer":{
+"@type":"Answer",
+"text":"A modular exhibition booth is a reusable display system made from standardized components that can be configured into different booth sizes and layouts."
+}
+},
+
+
+{
+"@type":"Question",
+"name":"Why choose a modular booth system?",
+"acceptedAnswer":{
+"@type":"Answer",
+"text":"Modular booth systems provide flexibility, easier transportation, faster installation and long-term reuse compared with traditional custom-built booths."
+}
+},
+
+
+{
+"@type":"Question",
+"name":"Does TianLang manufacture exhibition booths?",
+"acceptedAnswer":{
+"@type":"Answer",
+"text":"Yes. TianLang manufactures modular exhibition booths, SEG displays and custom LED display solutions for global exhibitors and contractors."
+}
+},
+
+
+{
+"@type":"Question",
+"name":"Can TianLang support large exhibition booth projects?",
+"acceptedAnswer":{
+"@type":"Answer",
+"text":"Yes. TianLang supports small portable displays and large-scale exhibition booth projects with customized manufacturing capabilities."
+}
+},
+
+
+{
+"@type":"Question",
+"name":"Do you provide OEM exhibition display services?",
+"acceptedAnswer":{
+"@type":"Answer",
+"text":"Yes. TianLang provides OEM and customized manufacturing services for exhibition display companies, agencies and international partners."
+}
+},
+
+
+{
+"@type":"Question",
+"name":"Where are TianLang products used?",
+"acceptedAnswer":{
+"@type":"Answer",
+"text":"TianLang products are used in trade shows, exhibitions, conferences, retail displays, corporate events and brand marketing campaigns."
+}
+},
+
+
+{
+"@type":"Question",
+"name":"Can TianLang print custom graphics?",
+"acceptedAnswer":{
+"@type":"Answer",
+"text":"Yes. TianLang provides customized fabric graphic printing based on customer artwork and brand requirements."
+}
+},
+
+
+{
+"@type":"Question",
+"name":"How are exhibition light boxes transported?",
+"acceptedAnswer":{
+"@type":"Answer",
+"text":"Modular light boxes are designed for efficient transportation and can be packed in protective cases or trolley bags depending on project requirements."
+}
+},
+
+
+{
+"@type":"Question",
+"name":"What is the production time for custom light boxes?",
+"acceptedAnswer":{
+"@type":"Answer",
+"text":"Production time depends on product size, customization requirements and order quantity. TianLang provides project-based production schedules."
+}
+},
+
+
+{
+"@type":"Question",
+"name":"Can I order custom sizes?",
+"acceptedAnswer":{
+"@type":"Answer",
+"text":"Yes. TianLang produces custom-size LED light boxes and exhibition display systems according to customer specifications."
+}
+},
+
+
+{
+"@type":"Question",
+"name":"Does TianLang ship internationally?",
+"acceptedAnswer":{
+"@type":"Answer",
+"text":"Yes. TianLang supports international customers and provides packaging solutions suitable for global shipping."
+}
+},
+
+
+{
+"@type":"Question",
+"name":"What industries use exhibition light boxes?",
+"acceptedAnswer":{
+"@type":"Answer",
+"text":"Industries including technology, automotive, healthcare, food and beverage, retail and manufacturing use exhibition light box solutions."
+}
+},
+
+
+{
+"@type":"Question",
+"name":"How bright are LED exhibition light boxes?",
+"acceptedAnswer":{
+"@type":"Answer",
+"text":"LED light boxes provide uniform illumination designed to make graphics clear and highly visible in exhibition environments."
+}
+},
+
+
+{
+"@type":"Question",
+"name":"Can SEG graphics be replaced?",
+"acceptedAnswer":{
+"@type":"Answer",
+"text":"Yes. SEG fabric graphics can be replaced easily, allowing brands to update messaging while keeping the same display frame."
+}
+},
+
+
+{
+"@type":"Question",
+"name":"What is a backlit display system?",
+"acceptedAnswer":{
+"@type":"Answer",
+"text":"A backlit display system uses internal LED lighting behind printed graphics to create an illuminated marketing display."
+}
+},
+
+
+{
+"@type":"Question",
+"name":"Why are illuminated displays effective at exhibitions?",
+"acceptedAnswer":{
+"@type":"Answer",
+"text":"Illuminated displays attract visitor attention, improve visibility and help brands create memorable booth experiences."
+}
+},
+
+
+{
+"@type":"Question",
+"name":"Does TianLang provide installation guidance?",
+"acceptedAnswer":{
+"@type":"Answer",
+"text":"Yes. TianLang provides installation instructions and technical support for exhibition display systems."
+}
+},
+
+
+{
+"@type":"Question",
+"name":"Can exhibition displays be used multiple times?",
+"acceptedAnswer":{
+"@type":"Answer",
+"text":"Yes. Modular exhibition displays are designed for repeated use across different events and locations."
+}
+},
+
+
+{
+"@type":"Question",
+"name":"What makes TianLang different from other display suppliers?",
+"acceptedAnswer":{
+"@type":"Answer",
+"text":"TianLang focuses on professional manufacturing, customization capability, quality control and complete exhibition display solutions."
+}
+},
+
+
+{
+"@type":"Question",
+"name":"Does TianLang work with exhibition contractors?",
+"acceptedAnswer":{
+"@type":"Answer",
+"text":"Yes. TianLang works with exhibition contractors, booth builders, agencies and brands worldwide."
+}
+},
+
+
+{
+"@type":"Question",
+"name":"Can I get a quotation for a custom exhibition display?",
+"acceptedAnswer":{
+"@type":"Answer",
+"text":"Yes. Customers can contact TianLang with project requirements to receive a customized quotation."
+}
+},
+
+
+{
+"@type":"Question",
+"name":"What information is needed for a custom booth quote?",
+"acceptedAnswer":{
+"@type":"Answer",
+"text":"Customers usually provide booth size, design requirements, graphics, quantity and event information for quotation."
+}
+},
+
+
+{
+"@type":"Question",
+"name":"Are LED light boxes energy efficient?",
+"acceptedAnswer":{
+"@type":"Answer",
+"text":"Modern LED lighting systems provide strong illumination while maintaining efficient energy consumption."
+}
+},
+
+
+{
+"@type":"Question",
+"name":"Can TianLang create unique booth designs?",
+"acceptedAnswer":{
+"@type":"Answer",
+"text":"Yes. TianLang supports customized booth structures and display concepts based on brand requirements."
+}
+},
+
+
+{
+"@type":"Question",
+"name":"What is a trade show display system?",
+"acceptedAnswer":{
+"@type":"Answer",
+"text":"A trade show display system is a professional presentation structure used by exhibitors to showcase products and communicate brand messages."
+}
+},
+
+
+{
+"@type":"Question",
+"name":"Why should brands use backlit exhibition displays?",
+"acceptedAnswer":{
+"@type":"Answer",
+"text":"Backlit exhibition displays enhance visual impact and help brands stand out in competitive exhibition environments."
+}
+},
+
+
+{
+"@type":"Question",
+"name":"Can TianLang provide display solutions for different booth sizes?",
+"acceptedAnswer":{
+"@type":"Answer",
+"text":"Yes. TianLang provides solutions for small portable booths and large custom exhibition spaces."
+}
+},
+
+
+{
+"@type":"Question",
+"name":"How do I choose the right exhibition light box?",
+"acceptedAnswer":{
+"@type":"Answer",
+"text":"Selection depends on booth size, display goals, transportation needs, installation requirements and customization options."
+}
+},
+
+
+{
+"@type":"Question",
+"name":"What is the lifespan of LED light box systems?",
+"acceptedAnswer":{
+"@type":"Answer",
+"text":"High-quality LED display systems are designed for long-term professional use with proper maintenance."
+}
+},
+
+
+{
+"@type":"Question",
+"name":"Does TianLang offer replacement graphics?",
+"acceptedAnswer":{
+"@type":"Answer",
+"text":"Yes. Replacement fabric graphics can be produced for existing SEG frames."
+}
+},
+
+
+{
+"@type":"Question",
+"name":"Can exhibition displays improve brand recognition?",
+"acceptedAnswer":{
+"@type":"Answer",
+"text":"Yes. Professional illuminated displays create stronger visual identity and help visitors remember brands."
+}
+},
+
+
+{
+"@type":"Question",
+"name":"What payment methods are available?",
+"acceptedAnswer":{
+"@type":"Answer",
+"text":"Payment terms depend on project requirements and customer agreements."
+}
+},
+
+
+{
+"@type":"Question",
+"name":"How can I contact TianLang for a project?",
+"acceptedAnswer":{
+"@type":"Answer",
+"text":"Customers can contact TianLang through the official website to discuss exhibition display projects and requirements."
+}
+}
+
+
+]
+}
