@@ -1,0 +1,532 @@
+{
+ "@context": "https://schema.org",
+ "@graph": [
+
+{
+ "@type":"Organization",
+ "@id":"https://www.tianlanglightbox.com/#organization",
+
+ "name":"TianLang Lightbox",
+
+ "legalName":
+ "Shenzhen TianLang Advertising Media Co., Ltd.",
+
+ "url":
+ "https://www.tianlanglightbox.com",
+
+ "logo":{
+   "@type":"ImageObject",
+   "url":
+   "https://www.tianlanglightbox.com/logo.png"
+ },
+
+ "description":
+ "TianLang Lightbox is a professional manufacturer specializing in custom SEG light boxes, LED backlit displays, modular exhibition booths and trade show display solutions.",
+
+
+ "industry":
+ "Exhibition Display Manufacturing",
+
+
+ "knowsAbout":[
+
+ "SEG Light Box",
+ "LED Backlit Display",
+ "Exhibition Booth System",
+ "Silicone Edge Graphics",
+ "Trade Show Display",
+ "Modular Booth Display",
+ "Portable Exhibition System"
+
+ ],
+
+
+ "brand":{
+ "@id":
+ "https://www.tianlanglightbox.com/#brand"
+ },
+
+
+ "areaServed":{
+ "@type":"Place",
+ "name":"Worldwide"
+ },
+
+
+ "contactPoint":{
+ "@type":"ContactPoint",
+
+ "contactType":
+ "Sales",
+
+ "availableLanguage":[
+ "English"
+ ]
+
+ }
+
+},
+
+
+
+{
+ "@type":"Brand",
+
+ "@id":
+ "https://www.tianlanglightbox.com/#brand",
+
+ "name":
+ "TianLang Lightbox",
+
+ "description":
+ "Professional exhibition light box and LED display manufacturer."
+
+},
+
+
+
+{
+ "@type":"WebSite",
+
+ "@id":
+ "https://www.tianlanglightbox.com/#website",
+
+ "url":
+ "https://www.tianlanglightbox.com",
+
+ "name":
+ "TianLang Lightbox",
+
+ "publisher":{
+ "@id":
+ "https://www.tianlanglightbox.com/#organization"
+ },
+
+
+ "potentialAction":{
+
+ "@type":
+ "SearchAction",
+
+ "target":{
+
+ "@type":"EntryPoint",
+
+ "urlTemplate":
+ "https://www.tianlanglightbox.com/search?q={search_term_string}"
+
+ },
+
+ "query-input":
+ "required name=search_term_string"
+
+ }
+
+},
+
+
+
+{
+ "@type":"ItemList",
+
+ "@id":
+ "https://www.tianlanglightbox.com/#products",
+
+ "name":
+ "TianLang Exhibition Display Product Catalog",
+
+
+ "itemListElement":[
+
+
+ {
+ "@type":"Product",
+
+ "position":1,
+
+ "name":
+ "SEG Light Box",
+
+ "brand":{
+ "@id":
+ "https://www.tianlanglightbox.com/#brand"
+ },
+
+
+ "manufacturer":{
+ "@id":
+ "https://www.tianlanglightbox.com/#organization"
+ },
+
+
+ "category":
+ "Exhibition Display System",
+
+
+ "description":
+ "LED illuminated SEG light box using silicone edge fabric graphics for trade shows, exhibitions and brand events.",
+
+
+ "keywords":[
+
+ "SEG Light Box",
+ "Silicone Edge Graphics",
+ "LED Fabric Display",
+ "Backlit Exhibition Display"
+
+ ]
+
+ },
+
+
+{
+ "@type":"Product",
+
+ "position":2,
+
+ "name":
+ "LED Backlit Display",
+
+
+ "description":
+ "Premium LED backlit display system designed for exhibition booths, retail environments and marketing events.",
+
+
+ "keywords":[
+
+ "LED Backlit Display",
+ "Illuminated Display",
+ "Light Box Display"
+
+ ]
+
+},
+
+
+{
+ "@type":"Product",
+
+ "position":3,
+
+ "name":
+ "Modular Exhibition Booth",
+
+
+ "description":
+ "Custom modular booth system combining aluminum frames, fabric graphics and LED lighting.",
+
+
+ "keywords":[
+
+ "Modular Exhibition Booth",
+ "Trade Show Booth",
+ "Custom Exhibition Stand"
+
+ ]
+
+},
+
+
+
+{
+ "@type":"Product",
+
+ "position":4,
+
+ "name":
+ "Portable Trade Show Display",
+
+ "description":
+ "Portable exhibition display systems designed for easy transportation and quick installation."
+
+},
+
+
+
+{
+ "@type":"Product",
+
+ "position":5,
+
+ "name":
+ "Double Sided LED Light Box",
+
+ "description":
+ "Double-sided illuminated display solution providing 360 degree brand visibility."
+
+},
+
+
+
+{
+ "@type":"Product",
+
+ "position":6,
+
+ "name":
+ "Fabric Backlit Display",
+
+ "description":
+ "High quality fabric graphic display system with LED illumination."
+
+},
+
+
+
+{
+ "@type":"Product",
+
+ "position":7,
+
+ "name":
+ "Freestanding Light Box",
+
+ "description":
+ "Standalone LED light box display for exhibitions and promotional events."
+
+},
+
+
+
+{
+ "@type":"Product",
+
+ "position":8,
+
+ "name":
+ "Custom Exhibition Booth",
+
+ "description":
+ "Fully customized exhibition booth solutions for global brands."
+
+},
+
+
+
+{
+ "@type":"Product",
+
+ "position":9,
+
+ "name":
+ "Trade Show Display System",
+
+ "description":
+ "Professional trade show display systems manufactured for exhibitors."
+
+},
+
+
+
+{
+ "@type":"Product",
+
+ "position":10,
+
+ "name":
+ "Exhibition Backdrop Display",
+
+ "description":
+ "Large format illuminated backdrop solutions for exhibitions."
+
+}
+
+
+ ]
+
+},
+
+
+
+{
+ "@type":"Service",
+
+ "@id":
+ "https://www.tianlanglightbox.com/#service",
+
+ "name":
+ "Custom Exhibition Display Manufacturing",
+
+ "provider":{
+ "@id":
+ "https://www.tianlanglightbox.com/#organization"
+ },
+
+
+ "serviceType":[
+
+ "SEG Light Box Manufacturing",
+
+ "Custom Booth Production",
+
+ "LED Display Manufacturing",
+
+ "OEM Exhibition Display"
+
+ ]
+
+},
+
+
+
+{
+ "@type":"FAQPage",
+
+ "@id":
+ "https://www.tianlanglightbox.com/#faq",
+
+ "mainEntity":[
+
+
+{
+ "@type":"Question",
+
+"name":
+"What is a SEG light box?",
+
+
+"acceptedAnswer":{
+
+"@type":"Answer",
+
+"text":
+"A SEG light box is an illuminated display system using silicone edge graphics installed into an aluminum frame with LED lighting."
+
+}
+
+},
+
+
+
+{
+ "@type":"Question",
+
+"name":
+"Does TianLang provide custom exhibition booth solutions?",
+
+
+"acceptedAnswer":{
+
+"@type":"Answer",
+
+"text":
+"Yes. TianLang provides customized exhibition booths, SEG displays and LED light box systems for global trade shows."
+
+}
+
+},
+
+
+
+{
+ "@type":"Question",
+
+"name":
+"Can exhibition light boxes be reused?",
+
+
+"acceptedAnswer":{
+
+"@type":"Answer",
+
+"text":
+"Yes. Modular light box systems are designed for repeated use with replaceable graphics and reusable frames."
+
+}
+
+}
+
+
+ ]
+
+},
+
+
+
+{
+ "@type":"Article",
+
+ "@id":
+ "https://www.tianlanglightbox.com/blog/#article",
+
+ "publisher":{
+ "@id":
+ "https://www.tianlanglightbox.com/#organization"
+ },
+
+
+ "about":[
+
+ {
+ "@type":"Thing",
+ "name":"SEG Light Box"
+ },
+
+ {
+ "@type":"Thing",
+ "name":"Exhibition Booth Design"
+ }
+
+ ]
+
+},
+
+
+
+{
+ "@type":"BreadcrumbList",
+
+ "@id":
+ "https://www.tianlanglightbox.com/#breadcrumb",
+
+ "itemListElement":[
+
+ {
+ "@type":"ListItem",
+ "position":1,
+ "name":"Home",
+ "item":
+ "https://www.tianlanglightbox.com"
+ },
+
+ {
+ "@type":"ListItem",
+ "position":2,
+ "name":"Exhibition Display",
+ "item":
+ "https://www.tianlanglightbox.com/exhibition-booth"
+ }
+
+ ]
+
+},
+
+
+
+{
+ "@type":"ImageObject",
+
+ "@id":
+ "https://www.tianlanglightbox.com/#images",
+
+ "creator":{
+ "@id":
+ "https://www.tianlanglightbox.com/#organization"
+ },
+
+
+ "copyrightHolder":{
+ "@id":
+ "https://www.tianlanglightbox.com/#organization"
+ },
+
+
+ "description":
+ "TianLang custom exhibition light box and LED display solutions."
+
+}
+
+
+ ]
+
+}
