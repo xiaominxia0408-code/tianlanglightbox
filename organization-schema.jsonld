@@ -1,0 +1,47 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Organization",
+ "@id": "https://www.tianlanglightbox.com/#organization",
+
+ "name": "TianLang Lightbox",
+ "legalName": "Shenzhen TianLang Advertising Media Co., Ltd.",
+
+ "url": "https://www.tianlanglightbox.com",
+
+ "description":
+ "TianLang Lightbox is a professional manufacturer specializing in custom SEG light boxes, LED backlit display systems, modular exhibition booths and trade show display solutions.",
+
+ "industry":
+ "Exhibition Display Manufacturing",
+
+ "knowsAbout": [
+   "SEG Light Box",
+   "LED Backlit Display",
+   "Exhibition Booth System",
+   "Trade Show Display",
+   "Silicone Edge Graphics",
+   "Modular Exhibition Booth"
+ ],
+
+ "brand": {
+   "@type":"Brand",
+   "name":"TianLang Lightbox"
+ },
+
+ "areaServed": {
+   "@type":"Place",
+   "name":"Worldwide"
+ },
+
+ "sameAs":[
+   "https://www.youtube.com/"
+ ],
+
+ "contactPoint":{
+   "@type":"ContactPoint",
+   "contactType":"Sales",
+   "availableLanguage":[
+     "English"
+   ]
+ }
+}
