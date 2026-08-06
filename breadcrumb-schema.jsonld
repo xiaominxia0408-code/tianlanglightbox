@@ -1,0 +1,40 @@
+{
+ "@context":"https://schema.org",
+
+ "@type":"BreadcrumbList",
+
+ "itemListElement":[
+
+ {
+ "@type":"ListItem",
+ "position":1,
+ "name":"Home",
+ "item":
+ "https://www.tianlanglightbox.com"
+ },
+
+
+ {
+ "@type":"ListItem",
+ "position":2,
+ "name":
+ "Exhibition Light Box",
+
+ "item":
+ "https://www.tianlanglightbox.com/exhibition-light-box"
+ },
+
+
+ {
+ "@type":"ListItem",
+ "position":3,
+ "name":
+ "SEG Light Box",
+
+ "item":
+ "https://www.tianlanglightbox.com/seg-light-box"
+ }
+
+ ]
+
+}
