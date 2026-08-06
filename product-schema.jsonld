@@ -1,0 +1,69 @@
+{
+ "@context":"https://schema.org",
+
+ "@type":"Product",
+
+ "@id":
+ "https://www.tianlanglightbox.com/seg-light-box/#product",
+
+ "name":
+ "Custom SEG Light Box",
+
+ "brand":{
+   "@type":"Brand",
+   "name":"TianLang Lightbox"
+ },
+
+ "manufacturer":{
+   "@type":"Organization",
+   "name":"Shenzhen TianLang Advertising Media Co., Ltd."
+ },
+
+ "category":
+ "Exhibition Display System",
+
+ "description":
+ "Custom SEG Light Box with LED illumination and silicone edge graphics technology designed for trade shows, exhibitions, conferences and brand events.",
+
+
+ "additionalProperty":[
+
+ {
+ "@type":"PropertyValue",
+ "name":"Graphic Type",
+ "value":"Silicone Edge Fabric Graphic"
+ },
+
+ {
+ "@type":"PropertyValue",
+ "name":"Lighting",
+ "value":"LED Backlit System"
+ },
+
+ {
+ "@type":"PropertyValue",
+ "name":"Application",
+ "value":
+ "Trade Show, Exhibition Booth, Retail Display"
+ },
+
+ {
+ "@type":"PropertyValue",
+ "name":"Customization",
+ "value":
+ "Custom Size and Printing Available"
+ }
+
+ ],
+
+
+ "audience":{
+ "@type":"BusinessAudience",
+ "audienceType":
+ "Exhibition Contractors, Brand Marketers, Booth Builders"
+ },
+
+
+ "url":
+ "https://www.tianlanglightbox.com/seg-light-box"
+}
