@@ -1,0 +1,57 @@
+{
+ "@context":"https://schema.org",
+
+ "@type":"FAQPage",
+
+ "mainEntity":[
+
+
+ {
+ "@type":"Question",
+ "name":
+ "What is a SEG light box?",
+
+ "acceptedAnswer":{
+ "@type":"Answer",
+
+ "text":
+ "A SEG light box is an illuminated display system using silicone edge graphics inserted into an aluminum frame. LED lighting creates a seamless and high-impact backlit display."
+ }
+
+ },
+
+
+ {
+ "@type":"Question",
+
+ "name":
+ "Can TianLang customize exhibition light boxes?",
+
+ "acceptedAnswer":{
+ "@type":"Answer",
+
+ "text":
+ "Yes. TianLang provides customized sizes, graphics, structures and LED lighting solutions for exhibition booths, trade shows and brand events."
+ }
+
+ },
+
+
+ {
+ "@type":"Question",
+
+ "name":
+ "How long does it take to install a modular light box?",
+
+ "acceptedAnswer":{
+ "@type":"Answer",
+
+ "text":
+ "Most modular SEG light boxes can be assembled quickly without complicated tools. Frame components are designed for efficient installation and transportation."
+ }
+
+ }
+
+
+ ]
+}
