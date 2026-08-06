@@ -1,0 +1,28 @@
+{
+ "@context":"https://schema.org",
+
+ "@type":"ImageObject",
+
+ "name":
+ "TianLang SEG Exhibition Light Box",
+
+ "description":
+ "Professional LED illuminated SEG display system for trade shows and exhibitions.",
+
+
+ "creator":{
+ "@type":"Organization",
+ "name":"TianLang Lightbox"
+ },
+
+
+ "copyrightHolder":{
+ "@type":"Organization",
+ "name":"TianLang Lightbox"
+ },
+
+
+ "contentUrl":
+ "https://www.tianlanglightbox.com/images/seg-lightbox.jpg"
+
+}
